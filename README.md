@@ -3,5 +3,6 @@ NightmareJS to set Firewall
 ## Cambia el estado del firewall  
 ![Firewall](https://github.com/manviny/Livebox-/blob/master/Firewall.png "Firewall")
 
-LV1 lo pone a **medio**  
-LV2 lo pone a **alto**  
+### Mediante la librería NightmareJS 
+**LV1.js** pone el estado del firewall a **medio**  
+**LV2.js** pone el estado del firewall  a **alto**  
